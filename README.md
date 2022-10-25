@@ -22,7 +22,7 @@ RELAGIO DIGITAL E  ANALOGICO
  
  > Clone o repositório e de sua estrelinha ;]
    
-        $ https://github.com/gfranca11/relogio
+        $ git clone https://github.com/gfranca11/relogio
         $ cd relogio
         
  
