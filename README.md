@@ -1,6 +1,6 @@
 <h1 align="center">
      📰
-RELAGIO DIGITAL E  ANALOGICO
+RELOGIO ANALOGICO E DIGITAL
 
 </h1>
 
